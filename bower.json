@@ -1,0 +1,13 @@
+{
+  "name": "arboreal",
+  "version": "0.0.0",
+  "homepage": "https://github.com/crusepartnership/arboreal",
+  "authors": [
+    "Andrea Fiore"
+  ],
+  "description": "",
+  "main": "lib/arboreal.js",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true
+}
